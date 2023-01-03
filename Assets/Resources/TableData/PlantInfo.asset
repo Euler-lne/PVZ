@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 802120f5124d07f42a07d44fd8ed48a4, type: 3}
+  m_Name: PlantInfo
+  m_EditorClassIdentifier: 
+  PlantInfoList:
+  - plantId: 0
+    plantName: "\u8C4C\u8C46\u5C04\u624B"
+    description: "\u8C4C\u8C46\u5C04\u624B\u53EF\u4EE5\u5411\u8DEF\u5F84\u4E0A\u7684\u50F5\u5C38\u53D1\u5C04\u8C4C\u8C46\u5B50\u5F39"
+    prefab: {fileID: 1959091036067185948, guid: 547a83f9c3ae04844a1a98b9f4db3186, type: 3}
+  - plantId: 1
+    plantName: "\u5411\u65E5\u8475"
+    description: "\u5411\u65E5\u8475\u53EF\u4EE5\u4EA7\u751F\u592A\u9633"
+    prefab: {fileID: 2393299874265620247, guid: 4aafff299b59b7649bc7569c326859e8, type: 3}
+  - plantId: 2
+    plantName: "\u575A\u679C"
+    description: "\u575A\u679C\u53EF\u4EE5\u5BF9\u8DEF\u5F84\u4E0A\u7684\u50F5\u5C38\u8D77\u5230\u4E00\u5B9A\u7684\u963B\u6321\u6548\u679C"
+    prefab: {fileID: 4903703236019457085, guid: b4dbd6213860c964499d92522a21da88, type: 3}
+  - plantId: 3
+    plantName: "\u7A9D\u74DC"
+    description: "\u7A9D\u74DC\u53EF\u4EE5\u5BF9\u8FD1\u8DDD\u79BB\u7684\u50F5\u5C38\u4EA7\u751F\u5DE8\u989D\u4F24\u5BB3"
+    prefab: {fileID: 906564560113192458, guid: f3e3cdd7a9bbaa148bd60c721a30e37a, type: 3}
+  - plantId: 4
+    plantName: "\u706B\u70AC\u6811\u6869"
+    description: "\u706B\u70AC\u6811\u6869\u53EF\u4EE5\u628A\u666E\u901A\u8C4C\u8C46\u8F6C\u6362\u4E3A\u706B\u7130\u8C4C\u8C46"
+    prefab: {fileID: 6899288098559948363, guid: 0c649c9e5b1dc6947b9b5ca2a4a7e31f, type: 3}
+  - plantId: 5
+    plantName: "\u706B\u7206\u8FA3\u6912"
+    description: "\u706B\u7206\u8FA3\u6912\u53EF\u4EE5\u5BF9\u8DEF\u5F84\u4E0A\u7684\u50F5\u5C38\u4EA7\u5DE8\u989D\u4F24\u5BB3"
+    prefab: {fileID: 4604183027290090732, guid: c60d2c7d2e0dc9e499eed289c0060ec9, type: 3}
