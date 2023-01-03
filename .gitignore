@@ -4,7 +4,6 @@ Temp/
 Logs/
 UserSettings/
 Packages/
-ProjectSettings/
 obj/
 *.sln
 *.userprefs

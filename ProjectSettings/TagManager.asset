@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Land
+  - Plant
+  - Zombie
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plant
+    uniqueID: 448786181
+    locked: 0
+  - name: Zombie
+    uniqueID: 2678524519
+    locked: 0
+  - name: LowerBullet
+    uniqueID: 2147162923
+    locked: 0
+  - name: Bullet
+    uniqueID: 4189927513
+    locked: 0
+  - name: HigherBullet
+    uniqueID: 255094751
+    locked: 0
+  - name: UI
+    uniqueID: 3975415253
+    locked: 0
+  - name: Sun
+    uniqueID: 3833842547
+    locked: 0
