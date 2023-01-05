@@ -148,7 +148,7 @@ public class Card : MonoBehaviour, IPointerClickHandler
     public void OnPointerClick(PointerEventData eventData)
     {
         // throw new System.NotImplementedException(); 原来自带的
-        if (isMove || hasLock)
+        if (isMove || hasLock || GameManager.instance.gameStart)
             return;
         if (hasUse)//出现在上方的卡片栏中
         {

@@ -4543,7 +4543,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18c3fe8825ed8c24496346da61ed6d9b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sunNum: 500
+  sunNum: 50
   bornParent: {fileID: 510441103}
   creatZombieTime: 5
   levelData: {fileID: 0}
